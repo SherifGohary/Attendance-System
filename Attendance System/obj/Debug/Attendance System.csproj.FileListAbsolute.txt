@@ -1,0 +1,153 @@
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\ApplicationInsights.config
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Attendance System.dll.config
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Attendance System.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Attendance System.pdb
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Antlr3.Runtime.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\EntityFramework.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\EntityFramework.SqlServer.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.Web.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.WindowsServer.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.ApplicationInsights.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Google.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Web.Infrastructure.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Newtonsoft.Json.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Owin.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Helpers.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Mvc.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Optimization.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Razor.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.Deployment.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.Razor.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\WebGrease.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Helpers.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Mvc.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Optimization.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.Razor.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.Deployment.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\System.Web.WebPages.Razor.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Antlr3.Runtime.pdb
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Newtonsoft.Json.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\EntityFramework.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\EntityFramework.SqlServer.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Google.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.ApplicationInsights.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.WindowsServer.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\bin\Microsoft.AI.Web.xml
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CoreCompileInputs.cache
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance System.dll
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance System.pdb
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance_System.Migrations.init.resources
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.Cache
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance_System.Migrations.authAdded.resources
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance_System.Migrations.attendance.resources
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance_System.Migrations.attendanceReportEmp.resources
+E:\ITIMansoura\ASP.NET MVC\Task Attendance\Attendance System\Attendance System\obj\Debug\Attendance System.csprojResolveAssemblyReference.cache
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\ApplicationInsights.config
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Attendance System.dll.config
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Attendance System.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Attendance System.pdb
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Antlr3.Runtime.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\EntityFramework.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\EntityFramework.SqlServer.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.DependencyCollector.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.Web.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.WindowsServer.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.ApplicationInsights.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Newtonsoft.Json.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Owin.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Helpers.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Mvc.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Optimization.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Razor.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.Razor.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\WebGrease.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Helpers.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Mvc.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Optimization.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.Razor.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\System.Web.WebPages.Razor.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Antlr3.Runtime.pdb
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Newtonsoft.Json.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\EntityFramework.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\EntityFramework.SqlServer.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.ApplicationInsights.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.DependencyCollector.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.WindowsServer.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\bin\Microsoft.AI.Web.xml
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.csprojAssemblyReference.cache
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance_System.Migrations.init.resources
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance_System.Migrations.authAdded.resources
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance_System.Migrations.attendance.resources
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance_System.Migrations.attendanceReportEmp.resources
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.cache
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.csproj.CoreCompileInputs.cache
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.csproj.CopyComplete
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.dll
+D:\ITI Courses\MVC\AttendanceSystem\Attendance System\obj\Debug\Attendance System.pdb

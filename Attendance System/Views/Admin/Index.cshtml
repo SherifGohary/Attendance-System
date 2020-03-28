@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Attendance_System.Models.Attendance>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<div class="container">
+    <div class="row">
+        <table class="table table-hover">
+            <th>
+                Employee Name
+            </th>
+            <th>
+                Attendance
+            </th>
+            <th>
+                Late
+            </th>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Users.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Attend)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Users.Late)
+                    </td>
+                </tr>
+            }
+            
+        </table>
+    </div>
+</div>
+
